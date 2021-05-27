@@ -1,13 +1,11 @@
-# **Best Arabic Games Bot By ニロ#3892**
+# **games-bot-by-Codes-Bot**
 
 **ニロ Meen Niro 🙃**
 
 
 ## ✨ Mad By
-```@ニロ#3892```
+```Akram AlJabari#5663```
 
 ## 🌀 Support
 
-[Naar Server](https://discord.gg/zezCEN36Hh)
-
-[NCR Codes](https://discord.gg/WR6y9XB7dU)
+[Codes Bot Server](https://discord.gg/W8Rbmvd4kS)
