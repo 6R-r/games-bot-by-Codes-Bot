@@ -1,7 +1,7 @@
 # **games-bot-by-Codes-Bot**
 
 
-## ✨ Mad By
+## ✨ Made By
 ```Akram AlJabari#5663```
 
 ## 🌀 Support
