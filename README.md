@@ -1,7 +1,5 @@
 # **games-bot-by-Codes-Bot**
 
-**ニロ Meen Niro 🙃**
-
 
 ## ✨ Mad By
 ```Akram AlJabari#5663```
