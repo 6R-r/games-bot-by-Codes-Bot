@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "owner_id": [""],
+    "blacklist_room": [""]
+  },
+  "bot": {
+    "connection": {
+      "token": ""
+    },
+    "setting": {
+      "main_prefix": "",
+      "main_lang": ""
+    }
+  }
+}
