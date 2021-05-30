@@ -129,7 +129,7 @@ Reason: \`${reason}\` **`);
     },
     {
       name: "Bot Website",
-      value: `${client.config.dev.website || "https://discord.gg/zezCEN36Hh" }`
+      value: `${client.config.dev.website || "https://discord.gg/yenVvvUm4w" }`
     })
   )
 })
